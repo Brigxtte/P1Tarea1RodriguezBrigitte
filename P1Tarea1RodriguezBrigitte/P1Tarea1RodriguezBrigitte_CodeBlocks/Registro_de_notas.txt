@@ -1,0 +1,6 @@
+----------------------------------
+Calificacion 1: 10
+Calificacion 2: 5
+Calificacion 3: 6
+Promedio: 7
+----------------------------------

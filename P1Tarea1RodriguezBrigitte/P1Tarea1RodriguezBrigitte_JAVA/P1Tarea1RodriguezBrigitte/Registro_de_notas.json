@@ -1,0 +1,35 @@
+{
+    "Persona": 1,
+    "Calificacion 1": 12.0,
+    "Calificacion 2": 2.0,
+    "Calificacion 3": 1.0,
+    "Promedio": 5.0
+},
+{
+    "Persona": 1,
+    "Calificacion 1": 20.0,
+    "Calificacion 2": 2.0,
+    "Calificacion 3": 12.0,
+    "Promedio": 11.333333
+},
+{
+    "Persona": 2,
+    "Calificacion 1": 2.0,
+    "Calificacion 2": 2.0,
+    "Calificacion 3": 2.0,
+    "Promedio": 2.0
+},
+{
+    "Persona": 1,
+    "Calificacion 1": 2.0,
+    "Calificacion 2": 2.0,
+    "Calificacion 3": 12.0,
+    "Promedio": 5.3333335
+},
+{
+    "Persona": 2,
+    "Calificacion 1": 12.0,
+    "Calificacion 2": 12.0,
+    "Calificacion 3": 17.0,
+    "Promedio": 13.666667
+},
